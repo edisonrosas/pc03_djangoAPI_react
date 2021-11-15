@@ -1,2 +1,3 @@
-# TECSUP-DAE-2021-2-B
-Labs del curso de Desarrollo Aplicaciones Empresariales  - GB - Edison Rosas
+# TECSUP-PRACTICA
+Api desarrollado en Django subida a Heroku.
+Consumo de Apis por medio del framework React
